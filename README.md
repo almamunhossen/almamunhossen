@@ -26,10 +26,10 @@ I am any time very happy because my country name is Bangladesh. I am an Emotiona
 ## 🤙🏼 Get in Touch
 
 [<img src='images/git.svg' alt='Github' height='30'>](https://github.com/almamunhossen)
-[<img src='images/linkedin.svg' alt='Linkedin' height='30'>](https://www.linkedin.com/in/almamunhossen/)
-[<img src='images/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/almamunhossen.bd)
-[<img src='images/instagram.svg' height='30'>](https://www.instagram.com/almamunhossen/)
-[<img src='images/twitter.svg' alt='twitter' height='30'>](https://twitter.com/almamunhossen) [<img src='images/codepen.svg' alt='codepen' height='30'>](https://codepen.io/almamunhossen)
+[<img src='./images/linkedin.svg' alt='Linkedin' height='30'>](https://www.linkedin.com/in/almamunhossen/)
+[<img src='./images/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/almamunhossen.bd)
+[<img src='./images/instagram.svg' height='30'>](https://www.instagram.com/almamunhossen/)
+[<img src='./images/twitter.svg' alt='twitter' height='30'>](https://twitter.com/almamunhossen) [<img src='./images/codepen.svg' alt='codepen' height='30'>](https://codepen.io/almamunhossen)
 [<img src='https://3.bp.blogspot.com/-hmlOwFvD6kM/XETPeicKQ5I/AAAAAAAALhE/8YPPiZFLsagBP8cqK1cMi5ff9zNUenhJQCK4BGAYYCw/s1600/Logo-2.png' alt='website' height='30'>](https://www.almamunhossen.com/)
 
 <!-- Git Pro Icon -->
