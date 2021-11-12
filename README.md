@@ -1,10 +1,8 @@
 ## 👋 Hello, I'm Al Mamun Hossen
 
-![](https://www.almamunhossen.com/)
+Graphic Designer | Web Designer | Opentype font Developer
 
 ## 〽️ Something About Me
-
----
 
 I am any time very happy because my country name is Bangladesh. I am an Emotional, Optimist, Challenging, Simple man, I always try my best to keep good character, I love my Parents, My Motherland is Bangladesh. I'm Working at Reem Group as a Computer IT Solution, [Ekushey](ekushey.org) as an Artwork Graphics Designer Opentype font Developer.
 
@@ -14,8 +12,6 @@ I am any time very happy because my country name is Bangladesh. I am an Emotiona
 <br/>
 
 ## 👨‍💻 My Skills:
-
----
 
 ✅ CREATIVE GRAPHIC DESIGN </br>
 ✅ JavaScript </br>
@@ -42,4 +38,4 @@ I am any time very happy because my country name is Bangladesh. I am an Emotiona
 <!-- Git Pro Icon -->
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almamunhossen&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almamunhossen)](https://github.com/anuraghazra/github-readme-stats) |
-| --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
