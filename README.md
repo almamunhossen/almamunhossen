@@ -25,7 +25,7 @@ I am any time very happy because my country name is Bangladesh. I am an Emotiona
 
 ## 🤙🏼 Get in Touch
 
-[<img src='images/git.svg' alt='Github' height='30'>](https://github.com/almamunhossen)
+[<img src='./images/git.svg' alt='Github' height='30'>](https://github.com/almamunhossen)
 [<img src='./images/linkedin.svg' alt='Linkedin' height='30'>](https://www.linkedin.com/in/almamunhossen/)
 [<img src='./images/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/almamunhossen.bd)
 [<img src='./images/instagram.svg' height='30'>](https://www.instagram.com/almamunhossen/)
