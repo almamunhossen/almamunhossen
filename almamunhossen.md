@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Al Mamun Hossen
 
-Graphic Designer | Web Designer | Opentype font Developer
+Graphic Designer | Web Designer | Opentype font Developer.
 
 ## 〽️ Something About Me
 
