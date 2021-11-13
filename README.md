@@ -56,4 +56,4 @@ I am any time very happy because my country name is Bangladesh. I am an Emotiona
 
 #### Profile Visits
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=almamunhossen&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=almamunhossen&repo=github-visitors-badge&labelColor=%23431c36&countColor=%2300d26a)
