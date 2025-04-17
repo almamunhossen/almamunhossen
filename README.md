@@ -35,11 +35,6 @@ I am any time very happy because my country name is Bangladesh. I am an Emotiona
 <img src='./images/Others/visualComposer.svg' alt='Visual Composer' height='30'>
 <br/>
 
-<!-- Git Pro Icon -->
-
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almamunhossen&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almamunhossen) |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-
 ## 🤙🏼 Get in Touch
 
 [<img src='./images/Others/contactUs.svg' alt='Github' height='150'>](https://www.almamunhossen.com/contact-us)
